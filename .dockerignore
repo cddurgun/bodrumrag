@@ -1,0 +1,11 @@
+.venv/
+.git/
+.env
+data/
+tests/
+__pycache__/
+.pytest_cache/
+.vscode/
+*.index
+*.json
+EOF
